@@ -9,9 +9,10 @@ This is a responsive *personal portfolio website* designed to showcase my skills
 
 project-1/
 ├── index.html        
-├── style.css         
-└── README.md         
-
+├── style.css   
+├── script.js
+├── parthasarathy_k.pdf
+└── README.md   
 
 ---
 
